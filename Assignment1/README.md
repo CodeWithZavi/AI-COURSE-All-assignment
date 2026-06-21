@@ -21,9 +21,11 @@ This assignment explores the practical application of **AI-powered tools** for c
 
 ## 📁 Repository Contents
 
+> ⭐ **Main Submission** — `Assignment 1 Noman_Shakir.pdf` (highlighted below)
+
 | File | Description |
 |------|-------------|
-| 📄 `Assignment 1 Noman_Shakir.pdf` | **Submission** — the completed assignment deliverable |
+| 🏆 **`Assignment 1 Noman_Shakir.pdf`** ⬅️ | **Submission** — the completed assignment deliverable |
 | 📘 `Essential AI Tools Briefing_ Image Creation and NotebookLM.pdf` | Briefing covering AI image tools & NotebookLM fundamentals |
 | 📘 `Grounded, Not Guessing_ A Guide to Reliable AI Research.pdf` | Guide to trustworthy, citation-grounded AI research practices |
 | 📘 `Chronological Sequence of AI Tool Mastery_ Lecture Series Timeline.pdf` | Curriculum timeline mapping the AI tool mastery journey |
