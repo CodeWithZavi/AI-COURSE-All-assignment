@@ -1,0 +1,17 @@
+# Command Code — local config & taste
+.commandcode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Office temp files
+~$*.pptx
+~$*.docx
