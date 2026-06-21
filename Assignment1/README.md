@@ -1,15 +1,25 @@
-<div align="center">
-  <img src="The_AI_Creator_s_Toolkit.png" alt="AI Creator's Toolkit" width="400"/>
+<p align="center">
+  <img src="The_AI_Creator_s_Toolkit.png" alt="AI Creator's Toolkit" width="700"/>
+</p>
 
-  # 🧠 AI Assignment 1 — AI Tools & Research
-  
-  **Student:** Noman Shakir  
-  **Focus:** AI Image Generation · NotebookLM · Reliable AI Research
+<h1 align="center">🧠 AI Assignment 1 — AI Tools & Research</h1>
 
-  [![NotebookLM](https://img.shields.io/badge/NotebookLM-Explore-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://notebooklm.google.com/)
-  [![AI](https://img.shields.io/badge/AI-Tools-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)]()
+<p align="center">
+  <strong>Student:</strong> Noman Shakir &nbsp;·&nbsp;
+  <strong>Focus:</strong> AI Image Generation · NotebookLM · Reliable AI Research
+</p>
 
-</div>
+<p align="center">
+  <a href="https://notebooklm.google.com/">
+    <img src="https://img.shields.io/badge/NotebookLM-Explore-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AI-Tools-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI Tools"/>
+  </a>
+  <a href="Assignment%201%20Noman_Shakir.pdf">
+    <img src="https://img.shields.io/badge/📄-View%20Submission-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Submission"/>
+  </a>
+</p>
 
 ---
 
@@ -21,17 +31,23 @@ This assignment explores the practical application of **AI-powered tools** for c
 
 ## 📁 Repository Contents
 
-> ⭐ **Main Submission** — `Assignment 1 Noman_Shakir.pdf` (highlighted below)
+<p align="center">
+  <a href="Assignment%201%20Noman_Shakir.pdf">
+    <img src="https://img.shields.io/badge/🏆_Main_Submission-📍_Assignment_1_Noman_Shakir.pdf-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
-| File | Description |
-|------|-------------|
-| 🏆 **`Assignment 1 Noman_Shakir.pdf`** ⬅️ | **Submission** — the completed assignment deliverable |
-| 📘 `Essential AI Tools Briefing_ Image Creation and NotebookLM.pdf` | Briefing covering AI image tools & NotebookLM fundamentals |
-| 📘 `Grounded, Not Guessing_ A Guide to Reliable AI Research.pdf` | Guide to trustworthy, citation-grounded AI research practices |
-| 📘 `Chronological Sequence of AI Tool Mastery_ Lecture Series Timeline.pdf` | Curriculum timeline mapping the AI tool mastery journey |
-| 📘 `AI Image Generation and NotebookLM_ Frequently Asked Questions.pdf` | FAQ document addressing common questions and best practices |
-| 📊 `The_AI_Architect_Playbook.pptx` | Strategic presentation on AI architecture & workflows |
-| 🖼️ `The_AI_Creator_s_Toolkit.png` | Visual infographic — the AI creator's essential toolkit |
+<br>
+
+| # | File | Description |
+|---|------|-------------|
+| ⭐ | **`Assignment 1 Noman_Shakir.pdf`** | 📄 **Main Deliverable** — the completed assignment with all links & research |
+| 1 | `Essential AI Tools Briefing_ Image Creation and NotebookLM.pdf` | Briefing covering AI image tools & NotebookLM fundamentals |
+| 2 | `Grounded, Not Guessing_ A Guide to Reliable AI Research.pdf` | Guide to trustworthy, citation-grounded AI research practices |
+| 3 | `Chronological Sequence of AI Tool Mastery_ Lecture Series Timeline.pdf` | Curriculum timeline mapping the AI tool mastery journey |
+| 4 | `AI Image Generation and NotebookLM_ Frequently Asked Questions.pdf` | FAQ document addressing common questions and best practices |
+| 5 | `The_AI_Architect_Playbook.pptx` | Strategic presentation on AI architecture & workflows |
+| 6 | `The_AI_Creator_s_Toolkit.png` | Visual infographic — the AI creator's essential toolkit |
 
 ---
 
