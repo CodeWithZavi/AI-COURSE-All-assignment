@@ -16,6 +16,28 @@
 
 ---
 
+<div align="center">
+
+### 👇 LIVE GEM — CLICK BELOW 👇
+
+<a href="https://share.gemini.google/PDQwphq9ym2x">
+  <img src="https://img.shields.io/badge/🚀_OPEN_GEMINI_GEM-CLICK_HERE-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1a73e8&color=1a73e8" alt="Open Gemini Gem"/>
+</a>
+
+<br>
+
+<a href="https://share.gemini.google/PDQwphq9ym2x">
+  <img src="https://img.shields.io/badge/🔗_https://share.gemini.google/PDQwphq9ym2x-blue?style=flat-square&logo=googlechat&logoColor=white" alt="Direct Link"/>
+</a>
+
+<br><br>
+
+> ## 🌐 **https://share.gemini.google/PDQwphq9ym2x**
+
+</div>
+
+---
+
 ## 📋 Overview
 
 This assignment demonstrates the creation of a **custom Gemini Gem** — a personalized AI persona designed to serve as a dedicated tech career coach for the Pakistani developer community. The Gem is built using Google's Gemini platform with carefully crafted instructions and behavior design.
@@ -85,9 +107,19 @@ Moving beyond theoretical AI concepts to building a **useful, real-world tool** 
 
 ## 🔗 Live Gem
 
-> The Gem is accessible through **Google Gemini** as a custom persona.
+<div align="center">
 
-**Platform:** [Google Gemini](https://gemini.google.com/)
+### ✨ **NOMAN - Pakistani Tech Career Coach** ✨
+
+**Your personal AI-powered career coach built exclusively for Pakistani developers, CS students, and tech enthusiasts. Get expert guidance on CVs, job hunting, freelancing, and career growth.**
+
+<br>
+
+<a href="https://share.gemini.google/PDQwphq9ym2x">
+  <img src="https://img.shields.io/badge/💬_ASK_NOW-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Ask Now"/>
+</a>
+
+</div>
 
 ---
 
